@@ -1,6 +1,6 @@
 ### 🏥 &nbsp;Code Blue Example Project #5
 
-# 🩺 &nbsp;Imaging Paperwork Automator
+# ☠️&nbsp;Imaging Paperwork Automator
 
 📖 &nbsp;An example project from my book [**"Code Blue: An Introduction to Programming for Doctors and Medical Students"**](https://gumroad.com/products/NMtSD/).
 
