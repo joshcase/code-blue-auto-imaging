@@ -13,5 +13,3 @@
 ‼️&nbsp;If you've got questions or problems, feel free to post them in the [Issues](https://github.com/joshcase/code-blue-pneumonia/issues) tab.
 
 ✅ &nbsp;Pull requests welcome.
-
-An imaging request system that will harness the power of business automation to make sending radiology request forms a breeze.
